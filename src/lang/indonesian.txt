@@ -2654,8 +2654,8 @@ STR_BUILD_DEPOT_TRAIN_ORIENTATION_CAPTION                       :{WHITE}Pilihan 
 STR_BUILD_DEPOT_TRAIN_ORIENTATION_TOOLTIP                       :{BLACK}Tentukan arah depo menghadap
 
 # Rail waypoint construction window
-STR_WAYPOINT_CAPTION                                            :{WHITE}Waypoint
-STR_WAYPOINT_GRAPHICS_TOOLTIP                                   :{BLACK}Pilih jenis waypoint
+STR_WAYPOINT_CAPTION                                            :{WHITE}Titik arah
+STR_WAYPOINT_GRAPHICS_TOOLTIP                                   :{BLACK}Pilih jenis titik arah
 
 # Rail station construction window
 STR_STATION_BUILD_RAIL_CAPTION                                  :{WHITE}Pilih stasiun kereta
@@ -2672,7 +2672,7 @@ STR_STATION_BUILD_STATION_CLASS_TOOLTIP                         :{BLACK}Pilih ke
 STR_STATION_BUILD_STATION_TYPE_TOOLTIP                          :{BLACK}Pilih jenis stasiun yang akan dibangun
 
 STR_STATION_CLASS_DFLT                                          :Stasiun standar
-STR_STATION_CLASS_WAYP                                          :Waypoint
+STR_STATION_CLASS_WAYP                                          :Titik arah
 
 # Signal window
 STR_BUILD_SIGNAL_CAPTION                                        :{WHITE}Pemilihan Sinyal
@@ -2994,7 +2994,7 @@ STR_LAI_STATION_DESCRIPTION_TRUCK_LOADING_AREA                  :Area bongkar mu
 STR_LAI_STATION_DESCRIPTION_BUS_STATION                         :Terminal Bus
 STR_LAI_STATION_DESCRIPTION_SHIP_DOCK                           :Pelabuhan
 STR_LAI_STATION_DESCRIPTION_BUOY                                :Pelampung
-STR_LAI_STATION_DESCRIPTION_WAYPOINT                            :Waypoint
+STR_LAI_STATION_DESCRIPTION_WAYPOINT                            :Titik arah
 
 STR_LAI_WATER_DESCRIPTION_WATER                                 :Air
 STR_LAI_WATER_DESCRIPTION_CANAL                                 :Kanal
@@ -4846,7 +4846,7 @@ STR_ERROR_MUST_DEMOLISH_DOCK_FIRST                              :{WHITE}Harus me
 STR_ERROR_MUST_DEMOLISH_AIRPORT_FIRST                           :{WHITE}Harus menghancurkan bandara terlebih dahulu
 
 # Waypoint related errors
-STR_ERROR_WAYPOINT_ADJOINS_MORE_THAN_ONE_EXISTING               :{WHITE}Berdempetan dengan lebih dari satu waypoint yang ada
+STR_ERROR_WAYPOINT_ADJOINS_MORE_THAN_ONE_EXISTING               :{WHITE}Berdempetan dengan lebih dari satu titik arah yang ada
 STR_ERROR_TOO_CLOSE_TO_ANOTHER_WAYPOINT                         :{WHITE}Terlalu dekat dengan waypoint yang lain
 
 STR_ERROR_CAN_T_BUILD_TRAIN_WAYPOINT                            :{WHITE}Tidak dapat membuat waypoint kereta disini...
@@ -5140,7 +5140,7 @@ STR_TOWN_BUILDING_NAME_SHOPPING_MALL_1                          :Pusat Perbelanj
 STR_TOWN_BUILDING_NAME_IGLOO_1                                  :Igloo (rumah eskimo)
 STR_TOWN_BUILDING_NAME_TEPEES_1                                 :Tepees (rumah penduduk amerika asli)
 STR_TOWN_BUILDING_NAME_TEAPOT_HOUSE_1                           :Kedai teh
-STR_TOWN_BUILDING_NAME_PIGGY_BANK_1                             :Bank-Piggy
+STR_TOWN_BUILDING_NAME_PIGGY_BANK_1                             :Celengan
 
 ##id 0x4800
 # industry names
@@ -5508,8 +5508,8 @@ STR_FORMAT_BUOY_NAME                                            :Pelampung {TOWN
 STR_FORMAT_BUOY_NAME_SERIAL                                     :Pelampung {TOWN} #{COMMA}
 
 ###length 2
-STR_FORMAT_WAYPOINT_NAME                                        :Waypoint {TOWN}
-STR_FORMAT_WAYPOINT_NAME_SERIAL                                 :Waypoint {TOWN} #{COMMA}
+STR_FORMAT_WAYPOINT_NAME                                        :Titik arah {TOWN}
+STR_FORMAT_WAYPOINT_NAME_SERIAL                                 :Titik arah {TOWN} #{COMMA}
 
 ###length 6
 STR_FORMAT_DEPOT_NAME_TRAIN                                     :Depo kereta {TOWN}
